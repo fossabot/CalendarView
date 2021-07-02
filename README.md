@@ -4,7 +4,8 @@ A highly customizable calendar library for Android, powered by RecyclerView.
 
 [![Build Status](https://travis-ci.org/kizitonwose/CalendarView.svg?branch=master)](https://travis-ci.org/kizitonwose/CalendarView) 
 [![JitPack](https://jitpack.io/v/kizitonwose/CalendarView.svg)](https://jitpack.io/#kizitonwose/CalendarView) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/kizitonwose/CalendarView/blob/master/LICENSE.md) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/kizitonwose/CalendarView/blob/master/LICENSE.md) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2FCalendarView.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2FCalendarView?ref=badge_shield)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@kizitonwose-9C27B0.svg)](https://twitter.com/kizitonwose)
 
 
@@ -279,3 +280,6 @@ You'll find some similar terms like `InDateStyle`, `OutDateStyle`, `DayOwner` et
 CalendarView is distributed under the MIT license. See [LICENSE](https://github.com/kizitonwose/CalendarView/blob/master/LICENSE.md) for details.
 
 [jt-cal-url]: https://github.com/patchthecode/JTAppleCalendar 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2FCalendarView.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2FCalendarView?ref=badge_large)
